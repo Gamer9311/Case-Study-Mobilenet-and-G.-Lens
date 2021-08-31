@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    background-color: burlywood;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+.list
+{
+    background-color: bisque;
+    box-shadow: 5px 5px 5px grey;
+    font-family: cursive;
+}
+
+ol img
+{
+    height: 300px;
+    width: 300px;
+    box-shadow: 5px 5px 29px grey;
+}
+
+.footer
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: blanchedalmond;
+  line-height: 3;
+  text-align: center;
+}
